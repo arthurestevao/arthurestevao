@@ -1,6 +1,6 @@
 # Olá, sou Arthur Estevão 👋
 
-> Desenvolvedor Full-stack em formação · Apaixonado por resolver problemas com código
+> Desenvolvedor Full Stack em formação · Apaixonado por resolver problemas com código
 
 ---
 
