@@ -18,7 +18,7 @@ Tenho experiência com design de interfaces, branding e estou desenvolvendo habi
 ![UI Design](https://img.shields.io/badge/UI%20Design-7F77DD?style=flat&logoColor=white)
 ![UX](https://img.shields.io/badge/UX-534AB7?style=flat&logoColor=white)
 ![Branding](https://img.shields.io/badge/Branding-AFA9EC?style=flat&logoColor=white)
-![Prototipação](https://img.shields.io/badge/Prototipa%C3%A7%C3%A3o-CEC BF6?style=flat&logoColor=white)
+![Prototipação](https://img.shields.io/badge/Prototipa%C3%A7%C3%A3o-CECBF6?style=flat&logoColor=white)
 
 ## 🖥️ Front-end
 
