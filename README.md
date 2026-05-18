@@ -6,9 +6,9 @@
 
 ## 🙋 Sobre mim
 
-Estudante de Engenharia de Software com foco em desenvolvimento Back-end e Full-stack.  
+Estudante de Ciência da Computação com foco em desenvolvimento Back-end e Front-end.  
 Gosto de construir soluções que fazem a diferença, aprender novas tecnologias e transformar ideias em código.  
-Atualmente em busca de oportunidades de **estágio** para crescer na área.
+Atualmente em busca de novas oportunidades para crescer na área.
 
 ---
 
